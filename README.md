@@ -22,6 +22,7 @@ SQL - Data Extraction & Data Collection
  5️⃣ Content Consumption Analysis – Merged content watch data from both platforms to study device and region-wise viewing trends.
  6️⃣ Revenue Analysis – Calculated pre/post plan change revenues and total monthly revenue impact.
 
+P.S: OTT Analysis pbx file is not getting uploaded due to size issue
 
 **Live Dashboard**:(https://app.powerbi.com/view?r=eyJrIjoiNzMzNTU1NjctODFhNS00YTFhLWFhNzgtYTJhNjhhMzg4MzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
