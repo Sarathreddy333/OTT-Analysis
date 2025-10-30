@@ -25,7 +25,9 @@ SQL - Data Extraction & Data Collection
 
 **Live Dashboard**:(https://app.powerbi.com/view?r=eyJrIjoiNzMzNTU1NjctODFhNS00YTFhLWFhNzgtYTJhNjhhMzg4MzYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+**This Promotional Analysis Github Repository Link**:(https://github.com/Sarathreddy333/OTT-Analysis)
 
+**Video Presentation ( Linkedin Post )**:(https://www.linkedin.com/posts/sarath-reddy-chagamreddy_2c5364-powerbi-dataanalytics-activity-7389037671928532992-aDOS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADuDobcBzEY8iA2VkYwfU5iB_BjqLLnXj70)
 
 📊 Key Tables Created
 Platform (merged JS & LC subscribers)
